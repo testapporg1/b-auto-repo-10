@@ -43,7 +43,11 @@
     "nodemon": "^1.19.1",
     "selenium-webdriver": "^2.53.2",
     "should": "^8.3.1",
-    "zaproxy": "^0.2.0"
+    "zaproxy": "^0.2.0",
+    "jquery": "^1.8.2",
+    "mongoose": "4.13.21",
+    "adm-zip": "0.5.10",
+    "st": "0.2.4"
   },
   "repository": "https://github.com/OWASP/NodejsGoat",
   "license": "Apache 2.0"
